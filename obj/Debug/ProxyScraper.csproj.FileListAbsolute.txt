@@ -1,0 +1,7 @@
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\bin\Debug\ProxyScraper.exe.config
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\bin\Debug\ProxyScraper.exe
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\bin\Debug\ProxyScraper.pdb
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\obj\Debug\ProxyScraper.csprojAssemblyReference.cache
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\obj\Debug\ProxyScraper.csproj.CoreCompileInputs.cache
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\obj\Debug\ProxyScraper.exe
+C:\Users\Warexrd\Downloads\Proxy-Scraper-main\Proxy-Scraper-main\obj\Debug\ProxyScraper.pdb
